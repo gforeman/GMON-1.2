@@ -24,10 +24,10 @@
 ******************************************************************************
 
 The source code has been formatted for readability, but is essentially the
-original as written, and assembled using MIKRO (from Supersoft), written by
-AJ Trott.
+original, as written, and assembled using MIKRO (from Supersoft, written by
+AJ Trott).
 
-The instructions (GMON 1.2.PDF) has been converted (and reformatted) from the
+The instructions (GMON 1.2.PDF) have been converted (and reformatted) from the
 original Easyscript document.
 
 What makes (made?) GMON different from assembler/disassembler/machine code
