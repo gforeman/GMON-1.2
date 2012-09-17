@@ -1,0 +1,43 @@
+******************************************************************************
+**                                                                          **
+**  Copyright (c) 1985-2012 by Gary J. Foreman                              **
+**                                                                          **
+**  Permission is hereby granted, free of charge, to any person obtaining   **
+**  a copy of this software and associated documentation files (the         **
+**  "Software"), to deal in the Software without restriction, including     **
+**  without limitation the rights to use, copy, modify, merge, publish,     **
+**  distribute, sublicense, and/or sell copies of the Software, and to      **
+**  permit persons to whom the Software is furnished to do so, subject to   **
+**  the following conditions:                                               **
+**                                                                          **
+**  The above copyright notice and this permission notice shall be          **
+**  included in all copies or substantial portions of the Software.         **
+**                                                                          **
+**  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,         **
+**  EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF      **
+**  MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND                   **
+**  NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE  **
+**  LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION  **
+**  OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION   **
+**  WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.         **
+**                                                                          **
+******************************************************************************
+
+The source code has been formatted for readability, but is essentially the
+original as written, and assembled using MIKRO (from Supersoft), written by
+AJ Trott.
+
+The instructions (GMON 1.2.PDF) has been converted (and reformatted) from the
+original Easyscript document.
+
+What makes (made?) GMON different from assembler/disassembler/machine code
+monitors of the time is that it allowed the user to use a number of the so-
+called 'quasi opcodes'.  The interwebs have a number of articles about these.
+
+Enjoy.
+
+
+Gary J. Foreman
+New York, September 2012.
+
+
